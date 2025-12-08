@@ -1,5 +1,8 @@
 node_modules
 .env
+.env.*
+npm-debug.log
+package-lock.json
 dist
 build
-npm-debug.log
+.prisma
